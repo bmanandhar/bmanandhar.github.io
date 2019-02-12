@@ -11,26 +11,3 @@ Now, I am a well-versed and fully equipped developer and can assure that any com
 weather: `https://codepen.io/bmanandhar/pen/yvbyVL`
 
 Random quote: `https://codepen.io/bmanandhar/pen/wyKJrY`
-
-<!--It starts here-->
-<div class="cv-section-content">
-  <div class="cv-timeline">
-    <div class="cv-timeline-row">
-      <div class="cv-timeline-side">
-        <div class="cv-timeline-company">API with AJAX</div>
-        <div class="cv-timeline-date">2017</div>
-        <a href="https://codepen.io/bmanandhar/pen/wyKJrY">https://codepen.io/bmanandhar/pen/wyKJrY/</a>
-      </div>
-      <div class="cv-timeline-body">
-        <h4 class="cv-timeline-position">Random Quote</h4>
-        <p>A Front-end project that uses API data.</p>
-        <ul>
-          <li>
-            A web application that displays random quotes delivered by different personalities of the world.
-          </li>
-        </ul>
-      </div>
-    </div>
-    </div>
-  </div>
-<!--And end shere-->
