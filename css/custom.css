@@ -1,3 +1,7 @@
 .to-be-wrapped {
     word-wrap : break-word;
 }
+
+.underline {
+    text-decoration: underline;
+}
