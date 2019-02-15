@@ -5,3 +5,11 @@
 .underline {
     text-decoration: underline;
 }
+
+.intro {
+    margin-left: 15px;
+}
+
+.dot {
+    list-style-type: none;
+    }
