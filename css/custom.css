@@ -1,3 +1,6 @@
+body {
+    color: black;
+}
 .to-be-wrapped {
     word-wrap : break-word;
 }
@@ -13,3 +16,7 @@
 .dot {
     list-style-type: none;
     }
+
+.resume {
+    margin-top: 20px;
+}
