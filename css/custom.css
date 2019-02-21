@@ -21,3 +21,28 @@ body {
     margin-top: 20px;
     z-index: 1;
 }
+
+.codewars {
+    border-radius: 15%;
+}
+
+.codewars-background {
+    width: 16.5px;
+    height: 18px;
+    background-color:#AD2C27; /*#AD2C27*/
+    border-radius: 15%;
+}
+
+.side-codewars-background {
+    width: 20px;
+    background-color: transparent;
+    border-radius: 15%;
+}
+
+.codewars-svg {  
+    filter: invert(92%);
+    margin-bottom: 2px;
+    margin-left: 2px;
+}
+
+ 
