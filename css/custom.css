@@ -22,8 +22,12 @@ body {
     z-index: 1;
 }
 
-.codewars, .ga-icon {
-    border-radius: 15%;
+.codewars {
+    border-radius: 50%;
+}
+
+.ga-icon {
+    border-radius: 50%;
 }
 
 .codewars-background {
@@ -41,7 +45,7 @@ body {
 
 .codewars-svg {  
     filter: invert(92%);
-    margin-bottom: 2px;
+    margin-bottom: 1px;
     margin-left: 1px;
 }
 
