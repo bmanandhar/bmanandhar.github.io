@@ -262,7 +262,21 @@
         </div>
       </div>
     </div>
-            <!--Weather API Here it ends-->
+    <!--Weather API Here it ends-->
+    <!-- Today's date:- -->
+    <script>
+      var now = new Date();
+      var dd = now.getDate();
+      var mm = now.getMonth()+1; //January is 0!
+      var yyyy = now.getFullYear();
+      var month = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
+      if(dd<10) {
+          dd = '0'+dd
+      }  
+      mm = month[mm-1];
+      today = mm + ' ' + dd + ', ' + yyyy;
+      document.getElementById("today").innerHTML = today;
+    </script>
     <!-- Google Analytics -->
     <script data-cfasync="false" src="cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script type="text/javascript">
@@ -283,20 +297,6 @@
         s.src = '//' + disqus_shortname + '.disqus.com/count.js';
         (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
       }());
-    </script>
-    <!-- Today's date:- -->
-    <script>
-      var now = new Date();
-      var dd = now.getDate();
-      var mm = now.getMonth()+1; //January is 0!
-      var yyyy = now.getFullYear();
-      var month = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
-      if(dd<10) {
-          dd = '0'+dd
-      }  
-      mm = month[mm-1];
-      today = mm + ' ' + dd + ', ' + yyyy;
-      document.getElementById("today").innerHTML = today;
     </script>
   </body>
 </html>
