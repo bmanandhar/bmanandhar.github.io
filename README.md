@@ -17,3 +17,9 @@ Random quote: `https://codepen.io/bmanandhar/pen/wyKJrY`
 Portfolio: `https://bmanandhar.github.io/`
 background-color: rgba(0, 0, 0, 0.5);
 https://profiles.generalassemb.ly/bijaya-manandhar
+
+Analyze for Open Graph Protocol:
+https://www.yakaferci.io/
+
+<meta name="twitter:url" content="https://twitter.com/Bijara2010">
+https://neilpatel.com/blog/open-graph-meta-tags/
