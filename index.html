@@ -48,11 +48,9 @@
   <body class="parent-home">
     <!-- Google Tag Manager (noscript) -->
     <noscript>
-      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQCJW5H"
-      height="0" width="0" style="display:none;visibility:hidden">
-      </iframe>
+      <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQCJW5H" height="0" width="0" style="display:none;visibility:hidden"></iframe>
     </noscript>
-  <!-- End Google Tag Manager (noscript) -->
+    <!-- End Google Tag Manager (noscript) -->
     <!--Starts 'aside'-->
     <aside class="site-sidebar">
       <div class="site-sidebar-inner">
@@ -176,10 +174,10 @@
       var dd = now.getDate();
       var mm = now.getMonth()+1; //January is 0!
       var yyyy = now.getFullYear();
-      var month = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
+      var month = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
       if(dd<10) {
           dd = '0'+dd
-      }  
+      };  
       mm = month[mm-1];
       today = mm + ' ' + dd + ', ' + yyyy;
       document.getElementById("today").innerHTML = today;
