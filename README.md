@@ -26,3 +26,5 @@ https://neilpatel.com/blog/open-graph-meta-tags/
 
     <embed src="pdf_files/BijayaManandharWebDeveloper.pdf" type="application/pdf" width="100%" height="800px">
     <embed src="pdf_files/BijayaManandharScrumAgile.pdf" type="application/pdf" width="100%" height="800px">
+
+    See: https://jtom.me/
