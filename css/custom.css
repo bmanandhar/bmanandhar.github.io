@@ -22,11 +22,7 @@ body {
     z-index: 1;
 }
 
-.codewars {
-    border-radius: 50%;
-}
-
-.ga-icon {
+.codewars, .ga-icon, .treem-tree-house {
     border-radius: 50%;
 }
 
