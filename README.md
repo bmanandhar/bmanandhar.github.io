@@ -29,4 +29,20 @@ https://neilpatel.com/blog/open-graph-meta-tags/
 
     See: https://jtom.me/
 
-    
+    4/16/2019, first day at TLM School, SQ. Arrived around 7AM. Syd let me in thought the entrance gate. He also tried to give me other info as much as possible. Jon Gripshover, as a Cal state employee (PIA) also tried to let me know more about it. As a matter of fact, Jon was the only guy working as a facilitator with so many students.
+
+    Day2: Went well, students look to be serious in the projects they are working.\
+
+    Day3: Thursday, was like a Friday sinc there is no class Friday.
+
+    Day4: Friday, San Franciso.
+
+    4/22,Monday: Nothing special. Tried to let Jon know about the problems that I saw. Got in class on time, students were good to me. Spent all day, teaching them. I also have got an iMac and a work station in the classroom.
+
+    4/23: Devn joined us at the school as a technecian. Wanted him to have my problems solve out.
+
+    4/24: Wednesday, Patty Melt. $13. Ohh ....
+    4/25: Thursday: okay with students.
+    4/26: Friday: San Francisco.
+
+
