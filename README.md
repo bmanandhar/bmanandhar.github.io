@@ -1,3 +1,4 @@
+https://jtom.me/
 # bmanandhar.github.io
 Portfolio Website
 
@@ -44,5 +45,19 @@ https://neilpatel.com/blog/open-graph-meta-tags/
     4/24: Wednesday, Patty Melt. $13. Ohh ....
     4/25: Thursday: okay with students.
     4/26: Friday: San Francisco.
+
+iOS app development:
+Today, I am going to explain how to create an app that can be used on any mobile device published by Apple Inc. It's called iOS app and different from the apps that we use with Android devices. If you follow this tutorial step by step, you may be able to develop the app that you want to use on an Apple mobile device such as iPhone and iPad. Most of you probably should have used different apps on the iPhone, iPad or other similar devices that Apple published. Believe it or not all the apps are pretty much made the same way. To understand it better, you can think of how the anatomy of a human body looks like. Basically, We all are made of bone, and blood. There may be some other componenets that I did not mention here because I am not a biologist and I may not have a detail knowledge of it. Like wise, all iOS apps consist of two things in general, a View and a View Controller.
+
+A view is what user sees, and the view controller contains code to perform the logic of the app.
+
+Apple has developed a program called Xcode that is available for free where you can use a visual drag and drop interface builder to construct the view for the app we create. We can also write the code logic for the view controller inside Xcode. The code we write needs to follow certain syntax and grammar just like any other human spoken language. There area number of languages that we can choose from, but in this tutorial I am using the Swift programming language and official tooloing from Apple. If you want to want to build Android apps, you need to look up Android Studio, which is equivalent to Xcode and instead of Swift, you will need to use Kotlin or Java as programming language.
+
+If you want to build an app on both platforms, the ideal way is to learn both sets of tools and build two apps. Of course, there are some third party solutions where you can build once and produce an app for both platforms, but these solutions are not prefect. The best explanation I can give you is like Coca-Cola versus Pepsi. If you are looking for a generic soda that tastes like both, you are going to get something in-between that can not be perfectly Coca-Cola nor Pepsi.
+
+Now, let's gert back to Xcode and focus to create iOS apps.
+
+
+
 
 
