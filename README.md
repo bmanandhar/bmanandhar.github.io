@@ -57,7 +57,45 @@ If you want to build an app on both platforms, the ideal way is to learn both se
 
 Now, let's gert back to Xcode and focus to create iOS apps.
 
+Codeacademy profile:
+https://www.codecademy.com/bmanandhar
 
 
+process.stdin.resume();
+process.stdin.setEncoding('utf8');
 
+var stdin = '';
+process.stdin.on('data', function (chunk) {
+  stdin += chunk;
+}).on('end', function() {
+  var lines = stdin.trim().split('\n');
+  for(var i=0; i<lines.length; i++) {
+    process.stdout.write(lines[i]);
+  }
+});
 
+http://www.clipular.com/posts/6192028678094848?k=C1AAzPCDc9jDZBCVpIv-FEr7w5w
+
+Hide side bar
+Challenge Tab - Active
+ Test Case Output Tab
+This is a practice programming challenge. Use this screen to explore the programming interface and try the simple challenge below. Nothing you do on this page will be recorded. When you are ready to proceed to your first scored challenge, click “Finish Practicing” above.
+Programming Challenge Description:
+Write a program that squares an integer and prints the result.
+Input:
+Your program should read lines from standard input. Each line will contain a positive integer.
+Output:
+For each line of input, print to standard output the square of the number. Print out each result on a new line.
+
+process.stdin.resume();
+process.stdin.setEncoding('utf8');
+
+var stdin = '';
+process.stdin.on('data', function (chunk) {
+  stdin += chunk;
+}).on('end', function() {
+  var lines = stdin.trim().split('\n');
+  for(var i=0; i<lines.length; i++) {
+    process.stdout.write(lines[i]);
+  }
+});
