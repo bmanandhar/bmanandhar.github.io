@@ -99,3 +99,5 @@ process.stdin.on('data', function (chunk) {
     process.stdout.write(lines[i]);
   }
 });
+
+Build a full stack web application with full CRUD functionality using the MERN tech stack (MongoDB, Express, React.js and Node.js). Wireframes and colour schemes were chosen by our instructors, but all the programming was down to us.
