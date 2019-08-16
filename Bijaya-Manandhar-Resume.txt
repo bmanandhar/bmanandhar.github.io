@@ -1,0 +1,112 @@
+﻿Bijaya Manandhar
+Software Developer
+
+
+San Francisco Bay Area, CA | manandhar.bijaya@gmail.com | (510) 672 8679
+ Portfolio:https://bmanandhar.github.io/ | L/In:https://www.linkedin.com/in/bijaya-manandhar-5a451827/ 
+GA Profile:https://profiles.generalassemb.ly/bijaya-manandhar | Github:https://github.com/bmanandhar
+TreeHouse: https://teamtreehouse.com/bijayamanandhar | CodePen: https://codepen.io/bmanandhar/
+
+
+A self-motivated Software Developer specialized in front-end and back-end development with experience in different fields including teaching and working in teams. 
+
+
+Seeking to work as a Full-stack Developer ∙ Willing to relocate, or work remotely 
+
+
+* KEY SKILLS
+
+
+   * Languages & Frameworks:   JavaScript, Python, Ruby, HTML, CSS, NodeJS, ExpressJS, Django
+   * Management & Deployment: Git, Github, Heroku, Command-line, Google-Analytics, http://ogp.me/
+   * Libraries & Databases:          JQuery, Bootstrap, SQL, MongoDB, PostgreSQL
+   * Methodologies:                  Object Oriented Language, MVC Pattern, Test Driven Development,     
+                                                   Responsive Design, Authentication, User Stories, Wireframing, 
+                                                                           Agile Development/Scrum 
+* EXPERIENCE
+
+
+   * Web-developer Classroom Facilitator:  The Last Mile (Temp) | (4/2019 - 5/2019) 
+* Assisting web developer students at San Quentin State Prison, CA. 
+* Keeping student-record of everyday-progress. 
+* Making the classroom ready for everyday learning environment.
+* Presenting weekly report to supervisors and staff.
+* Meeting with supervisors and staff on a weekly basis, discuss plans to progress. 
+
+
+   * Cashier:  Grocery Outlet, Alameda (9/2017 - 12/2018)
+A platform where I was always able to keep customers happy with greeting and other services.
+* Greeted customers visiting the store.
+* Worked as a cashier at the cash register.
+* Successfully fulfilled responsibilities of rearranging and fronting of commodities. 
+* Checked and managed to reorder different items for stocking. 
+
+
+   * Freelance Developer:  Freelancer (1/2017 - 12/2018)
+Created and Deployed several Web applications from scratch using different technologies 
+*  Different static and interactive full-stack web application projects.
+* Web application that displays current weather of the city user wants to know of.
+* App developed to display randomly generated inspiring quotes which then can be posted to users' social media account directly.
+
+
+   * Private Tutor::  Math Tutor (1/2010 - 10/2016) 
+Taught math to HS students in the SF Bay Area on one-on-one basis.
+* Tutored students who struggled with math at High Schools.
+* Helped students at Peralta Community College Learning Center who were not able to submit math home works based on computer puzzles.
+* Helped clients of Oakland Rehab Center by visiting their houses, libraries and other resources in order to get them study materials and ready to appear in the tests they needed to take. 
+
+
+
+
+
+
+* PROJECTS
+ 
+   * Wayfarer: A full stack web application with full CRUD functionality using the MERN stack
+* Wayfarer is a travel blog. Users can create an account to share a picture and description of their favourite places they’ve visited around the world.
+* Hyperlinks to  Launch and Repository.
+
+
+   * My Organizer:  World News, Weather, and Famous-Quotations In a Single App
+* Languages & technologies: JavaScript, NodeJS, ExpressJS, jQuery, and MongoDB.
+* Hyperlinks to  Launch and Repository.
+
+
+   * Story Teller:  A Website for Writers & Readers that allows writers to post articles for the public to read.
+* Languages & technologies: JavaScript, HTML, CSS, Bootstrap, Jquery, Django and MongoDB.
+* Signed in readers  may post comments on the articles they read, may edit or delete the comments once they posted, Writers may keep or delete the comments they receive. 
+* Hyperlinks to  Launch and Repository.
+
+
+   * Random Quote: An artistically created website by using public API to display inspiring quotes
+* Languages & technologies: JavaScript, HTML, CSS, Bootstrap, and Jquery.
+* Users may read the quotes, then post straight to their social media such as FaceBook and Twitter if they want. 
+* Hyperlinks to  Launch and Repository.
+
+
+   * Weather App:  Weather tracker that uses a public API library to access current weather of any city
+* Languages & technologies: JavaScript, HTML, CSS, Bootstrap, and Jquery.
+* Hyperlinks to  Launch and Repository.
+
+
+* EDUCATION
+
+
+   * Web Developer Immersive: General Assembly, San Francisco (10/2018 - 02/2019)
+* Full time student in Web Development Immersive program that included 480+ hours of in-person professional training over 12 weeks.
+                 
+   * Bachelors of Science: Tribhuvan University , Kathmandu
+      -        A full time comprehensive three year course acknowledged by US and all other countries     
+        with Physics and Math as major.
+
+
+   * Python Language Training:  http://www.mit.edu/ ,  MITx,  US (9/2016 - 11/2016)
+* 6.00.1x: Introduction to Computer Science and Programming Using Python
+               View Certificate https://courses.edx.org/certificates/444298be6a5a42579e097b74071513f3
+
+
+* RECENT-TRANING
+
+
+   * Scrum/Agile:  http://www.thejobhackers.org (1/2019 - 2/2019)
+* Successfully participated in the six week in-person Agile MBA training class recently conducted by a recognized leader in the Agile community, Mr Larry Apke , http://www.agile-doctor.com/about-me/
